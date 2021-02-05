@@ -1,0 +1,22 @@
+{
+  "name": "proyectonodejs",
+  "version": "1.0.0",
+  "description": "Proyecto con npm",
+  "main": "script.js",
+  "scripts": {
+    "test": "hola"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhordanARV/ProyectoNodeJs.git"
+  },
+  "author": "JhordanARV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhordanARV/ProyectoNodeJs/issues"
+  },
+  "homepage": "https://github.com/JhordanARV/ProyectoNodeJs#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
